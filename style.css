@@ -275,22 +275,144 @@ input{
 }
 
 
-@media only screen and (min-width: 481px) and (max-width: 768px){
-    .content{
-        width: 60%;
-
+@media only screen and (max-width: 600px) {
+nav ul li {
+font-size: 16px;
+}
+.logo {
+   font-size: 30px;
+}
+.search {
+     font-size: 20px;
+    margin-left: 20%;
     }
-    nav{
-        width: 4%;
-        display: inline-block;
+.purch {
+    width: 20%;
+    font-size: 14px;
     }
-    .sign{
-        width: 220%;
+.bag {
+    margin-left: -10px;
+    font-size: 20px;
     }
-    .icon{
-        width: 80%;
+h3 {
+    font-size: 2rem;
     }
-    .words{
-        width: 20%;
+h4 {
+    font-size: 30px;
     }
+.now {
+    padding: 1%;
+    width: 25%;
+    margin-left: 10%;
+    font-size: 14px;
+    }
+h5 {
+    margin-top: 39%;
+    margin-left: 5%;
+    font-size: 14px;
+    }
+h6 {
+    margin-left: 5%;
+    font-size: 30px;
+    }
+.al {
+    margin-left: 70%;
+    padding: 1%;
+    width: 20%;
+    font-size: 14px;
+    margin-top: -10%;
+    }
+.ima1 img {
+    width: 100%;
+    height: auto;
+    }
+.words {
+    font-size: 14px;
+    margin-left: 5%;
+    }
+.woma {
+    margin-top: 10%;
+    }
+.bla {
+    width: 80%;
+    }
+.gre {
+    margin-left: 20%;
+    margin-top: -10%;
+    }
+.five {
+    font-size: 30px;
+    }
+.sic {
+    font-size: 16px;
+    margin-left: -10%;
+    }
+.four {
+    font-size: 14px;
+    margin-left: 5%;
+    }
+.prod {
+    width: 60%;
+    font-size: 12px;
+    margin-top: 10%;
+    }
+.what {
+    font-size: 20px;
+    margin-left: 5%;
+    }
+.ar {
+    margin-left: 5%;
+    }
+.ima2 img {
+    width: 100%;
+    }
+.p1,.p2,.p3 {
+    margin-left: 5%;
+    font-size: 14px;
+    }
+.word {
+    font-size: 14px;
+    margin-left: 10%;
+    }
+    }
+    
+@media only screen and (min-width: 601px) and (max-width: 768px) {
+nav ul li {
+    font-size: 18px;
+    }
+.logo {
+    font-size: 35px;
+    }
+.search {
+    font-size: 25px;
+    margin-left: 25%;
+    }
+.purch {
+    width: 15%;
+    font-size: 17px;
+    }
+.bag {
+    margin-left: -15px;
+    font-size: 25px;
+}
+h3 {
+    font-size: 4rem;
+}
+h4 {
+    font-size: 60px;
+}
+.now {
+    padding: 2%;
+    width: 20%;
+    margin-left: 15%;
+    font-size: 17px;
+}
+h5 {
+    margin-top: 39%;
+    margin-left: 10%;
+    font-size: 17px;
+}
+h6 {
+    margin-left: 10%;
+}
 }
